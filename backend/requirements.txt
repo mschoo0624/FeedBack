@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+transformers
+torch
+beautifulsoup4
+requests
+langdetect
+python-multipart
+pydantic-settings
+pydantic
+bs4
+plotly
+pandas
+numpy
+python-dotenv
